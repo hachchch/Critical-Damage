@@ -1,4 +1,5 @@
 {
     "name": "Global uniques",
-    "uniques": ["[+75]% Strength <for [All] units> <with [15]% chance> <with notification> <when attacking>"]
+    "uniques": ["[+75]% Strength <for [All] units> <with [15]% chance> <when attacking> <with notification>",
+    "[+75]% Strength <for [All] units> <with [25]% chance> <when below [5] HP> <with notification> <when attacking>"]
 }
