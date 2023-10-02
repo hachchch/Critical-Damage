@@ -2,5 +2,5 @@
     "name": "Global uniques",
     "uniques": ["[+75]% Strength <for [All] units> <with [15]% chance> <when above [5] HP> <when attacking>",
     "[+75]% Strength <for [All] units> <with [25]% chance> <when below [5] HP> <when attacking>",
-        "Triggers the following global alert: [Recentry Unit hit a critical!] <when above [5] HP> <for [Player]> <with [15]% chance> <when attacking>"]
+        "Triggers the following global alert: [Recentry Unit hit a critical!] <when above [5] HP> <vs [Enemy] units> <with [15]% chance> <when attacking>"]
 }
